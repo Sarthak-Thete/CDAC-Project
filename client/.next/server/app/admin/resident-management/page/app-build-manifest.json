@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "/admin/resident-management/page": [
+      "static/chunks/f07ee_next_dist_35a4b6e8._.js",
+      "static/chunks/client_app_favicon_ico_mjs_c69cce98._.js",
+      "static/chunks/[root-of-the-server]__4db3dde6._.css",
+      "static/chunks/client_772767fb._.js",
+      "static/chunks/node_modules__pnpm_5849c455._.js",
+      "static/chunks/client_app_layout_tsx_be0f615f._.js",
+      "static/chunks/client_bc2992c8._.js",
+      "static/chunks/e9384_zod_dist_esm_958a8035._.js",
+      "static/chunks/8cec5_axios_lib_bcbe68cd._.js",
+      "static/chunks/node_modules__pnpm_177868fe._.js",
+      "static/chunks/client_app_admin_resident-management_page_tsx_709bc266._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_727141ce._.js",
+      "static/chunks/f07ee_next_dist_compiled_072afd38._.js",
+      "static/chunks/f07ee_next_dist_client_5cf5dcf9._.js",
+      "static/chunks/f07ee_next_dist_eb86032f._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_e27e0aca._.js",
+      "static/chunks/client_e69f0d32._.js",
+      "static/chunks/client_42fd111b._.js"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\main",
+    "\\backend\\src\\main\\java",
+    "\\backend\\src\\main\\java\\com",
+    "\\backend\\src\\main\\java\\com\\securacore",
+    "\\backend\\src\\main\\java\\com\\securacore\\app",
+    "\\backend\\src\\main\\java\\com\\securacore\\app\\controller",
+    "\\server"
+  ],
+  "SelectedNode": "\\backend\\src\\main\\java\\com\\securacore\\app\\SecuraCoreApplication.java",
+  "PreviewInSolutionExplorer": false
+}

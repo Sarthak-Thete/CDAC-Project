@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\securacore",
+    "\\src\\main\\java\\com\\securacore\\app",
+    "\\src\\main\\java\\com\\securacore\\app\\controller",
+    "\\src\\main\\java\\com\\securacore\\app\\service",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\securacore\\app\\service\\ResidentService.java",
+  "PreviewInSolutionExplorer": false
+}
